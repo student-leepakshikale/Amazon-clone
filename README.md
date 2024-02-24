@@ -1,2 +1,4 @@
 # amazon-clone
-this is amazon clone.
+This is amazon clone.
+<br>
+Author - leepakshi kale.
